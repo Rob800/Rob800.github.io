@@ -38,3 +38,10 @@ p {
     margin-right: auto;
     
 }
+
+.Content3{
+    max-width: 720px;
+    font-size: 30px;
+    margin: auto;
+    text-align: center;
+}
